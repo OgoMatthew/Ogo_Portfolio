@@ -6,5 +6,5 @@
 * Data was obtain from (Kaggle.com)
 * The analysis was done using excel to fillter and clean up data before using the pivot table
 
-Overview of Dashboard Summary using the excel Pivot table ![](Caputure.PNG) ## popular Movie Genres ![](Caputre.PNG)
+Overview of Dashboard Summary using the excel Pivot table ![](Image/Caputure.PNG)  ## popular Movie Genres  ![](Image/Caputre.PNG)
 

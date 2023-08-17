@@ -4,7 +4,7 @@
 # This project contain insight using dataset from the farmous Titanic story, this was a test project done on my internship with Internsify Africa using excel.
 
 * The data used was obtain from (Kaggle.com)
-* The analysis was done using excel to fillter and clean up data before using the pivot table.
+* The analysis was done using excel to fillter and clean up data.
 * The Dashboard reviews insights on Age Clarification of Passengers.
 * Total Number of Passenger which comprised of 687 with 37% of females and 63% of male.
 * Passenger by Class had more of the of third class, followed by first class and second class passengers.

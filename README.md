@@ -12,5 +12,5 @@
 * The number of surivals shows that 42% survived and 58% died at the cause of this incident.
 * Survival distribution by genders show that more that 200 male loss their life, there was more than a 100 female who lost their life and almost 50 child loss at the cause of the accident.
 
-## Overview of Dashboard Summary using the excel Pivot table  ![](Movie.PNG)
+## Overview of Dashboard Summary using the excel Pivot table  ![](TatanicDashboard.png)
 

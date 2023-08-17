@@ -1,7 +1,7 @@
 # Ogo_Portfolio
 # [Project 1: Titanic Dataset Summary](https://ogomatthew.github.io/Ogo_Portfolio/Movie-Dataset-Summary)
 
-# This project contain insight using dataset from the farmous Titanic story, this was a test project done on my internship with Internsify Africa using excel.
+# This project contain insight using dataset from the famous Titanic story, this was a test project done on my internship with Internsify Africa using excel.
 
 * The data used was obtain from (Kaggle.com)
 * The analysis was done using excel to fillter and clean up data.

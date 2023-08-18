@@ -10,7 +10,7 @@
 * Passenger by Class had more of the of third class, followed by first class and second class passengers.
 * The survival distribution by class shows that there was more died in the third class passenger, following by first class and then third class
 * The number of surivals shows that 42% survived and 58% died at the cause of this incident.
-* Survival distribution by genders show that more that 200 male loss their life, there was more than a 100 female who lost their life and almost 50 child loss at the cause of the accident.
+* Survival distribution by genders show that more that 200 male lost their life, more than a 100 female and almost 50 child died at the cause of the accident.
 
 ## Overview of Dashboard Summary  ![](Titanic.png)
 

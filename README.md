@@ -23,6 +23,9 @@
 * The data used was obtain from (Kaggle.com)
 * The analysis was done using pivot table in excel.
 * Insight from the dashboard reviewed average sales distribution per store yearly, monthly, weekly, during holidays and workdays.
+* The total number of 45 stores were analysed in the dataset with each having an average sales per stores sorted from the largest to lowest shows that store 20, 14 and 2 have the highest sales and 38,5 and 33 the lowest.
+* On the weekly sales it shows that there is more sales during the week, this could be due to the fact that most person would don't have the time to shop during the weekday do theirs on weekends.
+* 
 * 
 
-## Overview of Dashboard Summary  ![](Titanic.png)
+## Overview of Dashboard Summary  ![](Walmart.PNG)

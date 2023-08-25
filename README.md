@@ -14,3 +14,15 @@
 
 ## Overview of Dashboard Summary  ![](Titanic.png)
 
+
+
+# [Project 2: Dashboard on Walmart Sales Distribution by Trend](https://ogomatthew.github.io/Ogo_Portfolio/Movie-Dataset-Summary)
+
+# This project contain insight using dataset from walmart stores to get the average sales distribution by trend and it was done the Pivot Table in Excel.
+
+* The data used was obtain from (Kaggle.com)
+* The analysis was done using pivot table in excel.
+* Insight from the dashboard reviewed average sales distribution per store yearly, monthly, weekly, during holidays and workdays.
+* 
+
+## Overview of Dashboard Summary  ![](Titanic.png)

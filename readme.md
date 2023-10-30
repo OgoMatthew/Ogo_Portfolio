@@ -10,4 +10,4 @@
 * On reviewing the top perfornmance of hospital by Rich files it was seen that the University of Maryland Medical Centerr had the most Rich File while Cleverland Clinic had the lest
 * On Ranking the of hospital the New york Presbtyterian/lower manhanttan Hospital has the higest rank among the top hospital by performance 
 * Finally on reviewing the top hospital performance by scholarship the New york Presbtyterian/lower manhanttan Hospital also reviews to have the higest scholarship score while Cleverland Clinic was see to have the lowest.
-## Overview of Dashboard Summary  ![](Hospital Ranking .png)
+## Overview of Dashboard Summary  ![](Hospital.png)
